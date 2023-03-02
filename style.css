@@ -63,7 +63,7 @@ body{
     display:inline-block;
     padding: 10px 10px 10px;
     background: #fff transparent;
-    width: 1200px;
+    width: 1000px;
     margin:100px 120px;
     overflow: hidden;
     border-radius: 4px;
@@ -84,7 +84,7 @@ div#slider figure {
 /* Slider indicator */
 .indicator{
     width: 100%;
-    width: 1200px;
+    width: 1000px;
     height: 1px;
     background: #fffefe;
     position: absolute;
@@ -111,7 +111,7 @@ div#slider figure {
     }
 }  
 .footer{
-    width:100%;
+    width:200%;
     height:200px;
     background-color: rgb(38, 37, 37);
 }
