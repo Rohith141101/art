@@ -63,7 +63,7 @@ body{
     display:inline-block;
     padding: 10px 10px 10px;
     background: #fff transparent;
-    width: 1000px;
+    width: 7680px;
     margin:100px 120px;
     overflow: hidden;
     border-radius: 4px;
@@ -84,7 +84,7 @@ div#slider figure {
 /* Slider indicator */
 .indicator{
     width: 100%;
-    width: 1000px;
+    width: 768px;
     height: 1px;
     background: #fffefe;
     position: absolute;
